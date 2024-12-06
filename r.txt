@@ -1,0 +1,6 @@
+aiogram==2.25.1
+bcrypt==4.0.1
+gspread==5.7.2
+google-auth==2.20.0
+python-dotenv==1.0.0
+oauth2client
